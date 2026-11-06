@@ -1,0 +1,247 @@
+id_peserta,tanggal_pemeriksaan,usia_bulan,berat_kg,tinggi_cm,lingkar_kepala_cm,vitamin_a,imunisasi,z_bb_u,z_tb_u,status_gizi,jadwal_berikutnya,catatan
+BLT001,2026-06-22,31.5,15.7,92.6,46.4,Tidak,Lengkap sesuai usia,1.37,-0.12,Normal,2026-07-20,Kontrol bulan depan
+BLT001,2026-09-30,34.8,15.4,94.1,47.1,Ya,Belum lengkap,0.78,-0.32,Normal,2026-10-28,Edukasi MP-ASI
+BLT002,2026-09-29,44.8,16.4,99.4,46.4,Ya,Lengkap sesuai usia,0.33,-0.49,Normal,2026-10-27,Pantau kenaikan berat badan
+BLT003,2026-05-28,43.7,12.8,92.4,45.3,Tidak,Lengkap sesuai usia,-1.22,-1.87,Normal,2026-06-25,Edukasi MP-ASI
+BLT003,2026-09-19,47.5,13.9,94.6,47.2,Tidak,Belum lengkap,-0.96,-1.85,Normal,2026-10-17,Pantau kenaikan berat badan
+BLT004,2026-07-14,34.2,9.7,89.7,46.1,Tidak,Lengkap sesuai usia,-2.19,-1.11,Gizi kurang,2026-08-11,Kondisi baik
+BLT004,2026-09-06,36.0,11.3,91.4,46.3,Ya,Lengkap sesuai usia,-1.45,-0.98,Normal,2026-10-04,Edukasi MP-ASI
+BLT005,2026-05-28,30.7,13.3,92.7,46.0,Ya,Belum lengkap,0.28,0.4,Normal,2026-06-25,Kondisi baik
+BLT005,2026-07-03,31.9,13.2,93.6,45.4,Tidak,Belum lengkap,0.07,0.41,Normal,2026-07-31,Edukasi MP-ASI
+BLT005,2026-07-15,32.3,13.4,94.6,45.3,Tidak,Lengkap sesuai usia,0.14,0.6,Normal,2026-08-12,Kondisi baik
+BLT005,2026-10-18,35.4,13.9,96.2,46.8,Ya,Lengkap sesuai usia,0.07,0.41,Normal,2026-11-15,Kontrol bulan depan
+BLT006,2026-07-07,39.0,14.7,94.9,45.2,Tidak,Lengkap sesuai usia,-0.06,-0.79,Normal,2026-08-04,Edukasi MP-ASI
+BLT006,2026-08-26,40.7,14.9,95.4,47.3,Ya,Lengkap sesuai usia,-0.1,-0.91,Normal,2026-09-23,Pantau kenaikan berat badan
+BLT006,2026-10-05,42.0,15.0,96.8,46.7,Ya,Belum lengkap,-0.16,-0.74,Normal,2026-11-02,Edukasi MP-ASI
+BLT006,2026-10-25,42.6,15.0,96.8,46.8,Ya,Belum lengkap,-0.22,-0.84,Normal,2026-11-22,Kontrol bulan depan
+BLT007,2026-06-06,48.0,15.5,100.9,46.4,Tidak,Belum lengkap,-0.27,-0.43,Normal,2026-07-04,Pantau kenaikan berat badan
+BLT007,2026-07-30,49.8,15.2,101.0,46.5,Ya,Lengkap sesuai usia,-0.54,-0.63,Normal,2026-08-27,Pantau kenaikan berat badan
+BLT008,2026-05-20,19.4,9.0,76.3,43.7,Tidak,Lengkap sesuai usia,-1.12,-1.78,Normal,2026-06-17,Kontrol bulan depan
+BLT008,2026-06-27,20.7,9.4,78.2,44.9,Ya,Lengkap sesuai usia,-1.0,-1.54,Normal,2026-07-25,Edukasi MP-ASI
+BLT008,2026-07-15,21.3,9.1,78.7,46.1,Ya,Lengkap sesuai usia,-1.29,-1.56,Normal,2026-08-12,Edukasi MP-ASI
+BLT008,2026-10-02,23.9,8.9,80.9,45.7,Ya,Lengkap sesuai usia,-1.72,-1.63,Normal,2026-10-30,Pantau kenaikan berat badan
+BLT009,2026-07-15,52.3,17.0,104.1,45.8,Tidak,Lengkap sesuai usia,0.06,-0.23,Normal,2026-08-12,Kontrol bulan depan
+BLT010,2026-07-06,50.0,13.7,101.3,46.8,Tidak,Lengkap sesuai usia,-1.42,-0.75,Normal,2026-08-03,Edukasi MP-ASI
+BLT010,2026-08-31,51.8,14.2,102.1,46.1,Tidak,Lengkap sesuai usia,-1.29,-0.79,Normal,2026-09-28,Kondisi baik
+BLT011,2026-05-15,42.3,18.1,103.9,45.7,Ya,Belum lengkap,1.48,1.03,Normal,2026-06-12,Kondisi baik
+BLT011,2026-07-14,44.2,17.6,105.6,45.8,Tidak,Belum lengkap,1.01,1.14,Normal,2026-08-11,Kondisi baik
+BLT011,2026-08-29,45.8,18.4,105.9,45.8,Tidak,Belum lengkap,1.27,0.98,Normal,2026-09-26,Kontrol bulan depan
+BLT012,2026-08-04,28.9,11.4,85.8,46.9,Ya,Lengkap sesuai usia,-0.67,-1.19,Normal,2026-09-01,Kontrol bulan depan
+BLT013,2026-05-16,38.3,16.1,95.0,45.4,Tidak,Lengkap sesuai usia,0.95,-0.4,Normal,2026-06-13,Edukasi MP-ASI
+BLT013,2026-06-29,39.8,17.2,95.4,47.2,Ya,Belum lengkap,1.36,-0.53,Normal,2026-07-27,Edukasi MP-ASI
+BLT013,2026-08-29,41.8,16.7,96.9,47.8,Ya,Belum lengkap,0.88,-0.46,Normal,2026-09-26,Edukasi MP-ASI
+BLT014,2026-05-17,36.3,15.4,93.5,45.1,Tidak,Lengkap sesuai usia,0.61,-0.76,Normal,2026-06-14,Kontrol bulan depan
+BLT014,2026-06-29,37.8,15.5,93.4,45.7,Ya,Belum lengkap,0.52,-1.0,Normal,2026-07-27,Kondisi baik
+BLT014,2026-09-30,40.8,15.8,94.8,46.2,Ya,Lengkap sesuai usia,0.38,-1.09,Normal,2026-10-28,Kondisi baik
+BLT015,2026-06-14,19.3,10.4,79.2,44.5,Tidak,Lengkap sesuai usia,-0.05,-0.76,Normal,2026-07-12,Pantau kenaikan berat badan
+BLT015,2026-09-12,22.2,11.3,82.2,44.6,Ya,Lengkap sesuai usia,0.13,-0.74,Normal,2026-10-10,Edukasi MP-ASI
+BLT016,2026-07-27,38.7,14.9,100.3,44.4,Ya,Belum lengkap,0.09,0.68,Normal,2026-08-24,Kontrol bulan depan
+BLT016,2026-10-03,40.9,15.2,102.0,46.2,Tidak,Lengkap sesuai usia,0.04,0.76,Normal,2026-10-31,Edukasi MP-ASI
+BLT016,2026-10-30,41.8,15.4,100.9,46.6,Ya,Lengkap sesuai usia,0.07,0.34,Normal,2026-11-27,Edukasi MP-ASI
+BLT017,2026-05-24,28.6,7.8,78.5,46.3,Tidak,Belum lengkap,-2.86,-3.21,Stunting,2026-06-21,Kontrol bulan depan
+BLT017,2026-08-02,30.9,8.0,78.5,45.2,Ya,Lengkap sesuai usia,-2.92,-3.59,Stunting,2026-08-30,Kontrol bulan depan
+BLT017,2026-08-23,31.6,7.5,79.0,45.9,Tidak,Lengkap sesuai usia,-3.26,-3.56,Stunting,2026-09-20,Edukasi MP-ASI
+BLT017,2026-11-01,33.9,8.4,79.8,46.0,Tidak,Lengkap sesuai usia,-2.9,-3.71,Stunting,2026-11-29,Kontrol bulan depan
+BLT018,2026-05-29,49.7,13.5,109.1,48.4,Ya,Lengkap sesuai usia,-1.29,1.28,Normal,2026-06-26,Kondisi baik
+BLT019,2026-07-06,43.0,13.7,98.3,46.0,Ya,Lengkap sesuai usia,-0.73,-0.3,Normal,2026-08-03,Pantau kenaikan berat badan
+BLT019,2026-08-01,43.8,14.0,99.6,47.2,Ya,Lengkap sesuai usia,-0.65,-0.11,Normal,2026-08-29,Kondisi baik
+BLT019,2026-09-29,45.8,14.6,101.4,46.9,Ya,Lengkap sesuai usia,-0.51,0.03,Normal,2026-10-27,Kondisi baik
+BLT019,2026-10-22,46.5,14.3,102.0,44.9,Tidak,Lengkap sesuai usia,-0.71,0.05,Normal,2026-11-19,Pantau kenaikan berat badan
+BLT020,2026-06-14,2.3,3.4,50.3,37.5,Tidak,Belum lengkap,-2.29,-2.47,Stunting,2026-07-12,Pantau kenaikan berat badan
+BLT020,2026-08-15,4.3,4.5,55.5,38.3,Ya,Lengkap sesuai usia,-2.16,-2.52,Stunting,2026-09-12,Kondisi baik
+BLT020,2026-09-21,5.5,5.1,57.7,39.4,Tidak,Lengkap sesuai usia,-2.18,-2.94,Stunting,2026-10-19,Kontrol bulan depan
+BLT020,2026-11-01,6.9,5.3,60.9,40.4,Ya,Lengkap sesuai usia,-2.4,-2.56,Stunting,2026-11-29,Pantau kenaikan berat badan
+BLT021,2026-05-18,50.4,14.3,98.3,46.3,Tidak,Belum lengkap,-0.97,-1.34,Normal,2026-06-15,Kondisi baik
+BLT021,2026-08-01,52.8,15.5,100.1,46.0,Tidak,Lengkap sesuai usia,-0.61,-1.22,Normal,2026-08-29,Edukasi MP-ASI
+BLT021,2026-10-17,55.4,15.5,100.9,47.5,Tidak,Lengkap sesuai usia,-0.77,-1.33,Normal,2026-11-14,Edukasi MP-ASI
+BLT022,2026-05-22,36.5,12.4,89.2,47.3,Ya,Lengkap sesuai usia,-0.88,-1.63,Normal,2026-06-19,Kondisi baik
+BLT023,2026-05-26,45.6,11.8,99.2,46.1,Ya,Lengkap sesuai usia,-1.82,-0.49,Normal,2026-06-23,Pantau kenaikan berat badan
+BLT023,2026-07-01,46.8,12.3,100.5,47.2,Ya,Lengkap sesuai usia,-1.66,-0.35,Normal,2026-07-29,Edukasi MP-ASI
+BLT023,2026-10-18,50.4,12.0,103.5,46.7,Ya,Lengkap sesuai usia,-1.98,-0.13,Normal,2026-11-15,Kondisi baik
+BLT024,2026-07-20,36.4,12.9,96.5,45.8,Ya,Belum lengkap,-0.86,0.04,Normal,2026-08-17,Kontrol bulan depan
+BLT025,2026-08-24,49.6,13.0,93.3,46.1,Ya,Belum lengkap,-1.74,-2.62,Stunting,2026-09-21,Pantau kenaikan berat badan
+BLT025,2026-09-25,50.7,13.7,94.6,47.2,Tidak,Lengkap sesuai usia,-1.46,-2.43,Stunting,2026-10-23,Kontrol bulan depan
+BLT026,2026-05-19,3.4,5.6,58.9,38.7,Ya,Belum lengkap,0.1,0.17,Normal,2026-06-16,Kondisi baik
+BLT026,2026-06-24,4.6,6.3,62.6,38.4,Tidak,Lengkap sesuai usia,-0.05,0.36,Normal,2026-07-22,Pantau kenaikan berat badan
+BLT026,2026-08-25,6.6,7.6,67.3,41.1,Ya,Lengkap sesuai usia,0.14,0.31,Normal,2026-09-22,Pantau kenaikan berat badan
+BLT026,2026-10-31,8.8,8.3,70.4,40.6,Ya,Belum lengkap,0.25,0.32,Normal,2026-11-28,Pantau kenaikan berat badan
+BLT027,2026-05-31,2.8,5.5,55.3,38.0,Ya,Belum lengkap,0.61,-0.74,Normal,2026-06-28,Edukasi MP-ASI
+BLT027,2026-06-19,3.4,6.0,57.0,36.9,Ya,Lengkap sesuai usia,0.67,-0.74,Normal,2026-07-17,Kontrol bulan depan
+BLT028,2026-10-17,27.4,12.5,88.8,46.5,Ya,Belum lengkap,0.21,-0.01,Normal,2026-11-14,Kontrol bulan depan
+BLT029,2026-06-01,34.8,12.1,94.0,45.6,Ya,Belum lengkap,-0.88,-0.07,Normal,2026-06-29,Edukasi MP-ASI
+BLT029,2026-08-01,36.8,11.8,95.0,47.6,Ya,Lengkap sesuai usia,-1.23,-0.17,Normal,2026-08-29,Kontrol bulan depan
+BLT029,2026-08-17,37.4,12.7,94.9,45.0,Tidak,Belum lengkap,-0.79,-0.28,Normal,2026-09-14,Pantau kenaikan berat badan
+BLT029,2026-09-16,38.4,12.2,95.2,46.8,Ya,Lengkap sesuai usia,-1.13,-0.36,Normal,2026-10-14,Edukasi MP-ASI
+BLT030,2026-06-14,16.3,8.2,74.4,43.1,Ya,Lengkap sesuai usia,-1.31,-1.41,Normal,2026-07-12,Pantau kenaikan berat badan
+BLT030,2026-10-27,20.7,9.4,78.9,45.7,Tidak,Lengkap sesuai usia,-1.0,-1.32,Normal,2026-11-24,Kontrol bulan depan
+BLT031,2026-09-03,7.9,6.7,66.4,40.9,Ya,Lengkap sesuai usia,-1.16,-0.82,Normal,2026-10-01,Edukasi MP-ASI
+BLT032,2026-06-20,20.5,10.9,84.9,44.1,Ya,Lengkap sesuai usia,-0.41,0.22,Normal,2026-07-18,Pantau kenaikan berat badan
+BLT033,2026-05-19,50.4,13.6,103.4,47.1,Ya,Lengkap sesuai usia,-1.28,-0.15,Normal,2026-06-16,Kontrol bulan depan
+BLT033,2026-07-04,51.9,13.6,103.8,45.9,Ya,Belum lengkap,-1.37,-0.25,Normal,2026-08-01,Kondisi baik
+BLT033,2026-07-17,52.3,13.7,104.0,46.8,Tidak,Lengkap sesuai usia,-1.35,-0.26,Normal,2026-08-14,Kontrol bulan depan
+BLT033,2026-10-27,55.7,13.5,106.9,48.0,Ya,Belum lengkap,-1.61,-0.02,Normal,2026-11-24,Kontrol bulan depan
+BLT034,2026-05-17,20.3,9.9,80.9,45.3,Ya,Lengkap sesuai usia,-0.59,-0.56,Normal,2026-06-14,Kontrol bulan depan
+BLT034,2026-09-01,23.9,10.9,84.1,44.6,Tidak,Lengkap sesuai usia,-0.38,-0.66,Normal,2026-09-29,Pantau kenaikan berat badan
+BLT034,2026-09-28,24.8,10.8,84.6,46.5,Ya,Lengkap sesuai usia,-0.56,-0.7,Normal,2026-10-26,Kondisi baik
+BLT034,2026-10-23,25.6,11.0,84.5,45.1,Ya,Lengkap sesuai usia,-0.53,-0.9,Normal,2026-11-20,Kontrol bulan depan
+BLT035,2026-05-31,41.8,15.3,101.0,46.8,Ya,Lengkap sesuai usia,0.17,0.56,Normal,2026-06-28,Kontrol bulan depan
+BLT035,2026-07-05,43.0,16.1,102.0,46.4,Tidak,Lengkap sesuai usia,0.46,0.62,Normal,2026-08-02,Kontrol bulan depan
+BLT035,2026-09-27,45.7,16.1,104.0,47.5,Ya,Lengkap sesuai usia,0.2,0.67,Normal,2026-10-25,Edukasi MP-ASI
+BLT035,2026-10-19,46.4,17.0,104.1,46.8,Ya,Belum lengkap,0.55,0.58,Normal,2026-11-16,Pantau kenaikan berat badan
+BLT036,2026-05-27,34.7,12.0,85.4,45.4,Tidak,Belum lengkap,-0.92,-2.33,Stunting,2026-06-24,Pantau kenaikan berat badan
+BLT036,2026-07-04,35.9,11.8,86.0,45.4,Ya,Belum lengkap,-1.16,-2.38,Stunting,2026-08-01,Edukasi MP-ASI
+BLT036,2026-07-25,36.6,12.5,86.1,46.0,Ya,Lengkap sesuai usia,-0.83,-2.46,Stunting,2026-08-22,Edukasi MP-ASI
+BLT036,2026-08-17,37.4,12.2,86.3,46.9,Ya,Lengkap sesuai usia,-1.06,-2.51,Stunting,2026-09-14,Kontrol bulan depan
+BLT037,2026-07-24,49.6,13.4,97.5,46.6,Ya,Lengkap sesuai usia,-1.54,-1.61,Normal,2026-08-21,Edukasi MP-ASI
+BLT037,2026-08-22,50.5,13.5,97.7,46.6,Ya,Lengkap sesuai usia,-1.55,-1.68,Normal,2026-09-19,Pantau kenaikan berat badan
+BLT037,2026-10-15,52.3,13.6,99.2,46.2,Ya,Lengkap sesuai usia,-1.59,-1.53,Normal,2026-11-12,Pantau kenaikan berat badan
+BLT038,2026-05-31,40.8,12.5,95.3,46.3,Tidak,Lengkap sesuai usia,-1.16,-0.72,Normal,2026-06-28,Edukasi MP-ASI
+BLT038,2026-07-18,42.4,13.0,95.8,47.4,Tidak,Lengkap sesuai usia,-1.03,-0.83,Normal,2026-08-15,Kondisi baik
+BLT039,2026-07-27,34.7,11.9,87.6,45.3,Ya,Belum lengkap,-0.98,-1.75,Normal,2026-08-24,Pantau kenaikan berat badan
+BLT039,2026-09-06,36.0,12.4,88.7,45.9,Ya,Lengkap sesuai usia,-0.84,-1.69,Normal,2026-10-04,Pantau kenaikan berat badan
+BLT039,2026-09-19,36.5,11.4,89.2,45.7,Ya,Belum lengkap,-1.42,-1.62,Normal,2026-10-17,Kontrol bulan depan
+BLT040,2026-06-05,35.0,6.4,78.7,47.7,Ya,Lengkap sesuai usia,-4.11,-4.17,Stunting,2026-07-03,Pantau kenaikan berat badan
+BLT040,2026-08-20,37.5,8.2,79.8,45.4,Tidak,Lengkap sesuai usia,-3.23,-4.22,Stunting,2026-09-17,Edukasi MP-ASI
+BLT040,2026-10-01,38.8,7.2,80.6,45.7,Tidak,Lengkap sesuai usia,-3.81,-4.19,Stunting,2026-10-29,Kondisi baik
+BLT040,2026-10-15,39.3,7.4,81.7,46.4,Tidak,Lengkap sesuai usia,-3.72,-3.96,Stunting,2026-11-12,Kontrol bulan depan
+BLT041,2026-06-27,8.7,6.0,64.0,40.3,Ya,Belum lengkap,-2.04,-2.23,Stunting,2026-07-25,Kontrol bulan depan
+BLT041,2026-09-01,10.9,6.6,66.3,42.0,Ya,Lengkap sesuai usia,-1.88,-2.41,Stunting,2026-09-29,Edukasi MP-ASI
+BLT041,2026-10-06,12.0,6.8,67.4,42.4,Ya,Lengkap sesuai usia,-1.91,-2.54,Stunting,2026-11-03,Kontrol bulan depan
+BLT041,2026-10-16,12.3,6.7,69.2,43.6,Ya,Lengkap sesuai usia,-2.05,-1.97,Gizi kurang,2026-11-13,Kondisi baik
+BLT042,2026-05-27,6.7,7.2,68.0,40.9,Tidak,Belum lengkap,-0.97,-0.22,Normal,2026-06-24,Kondisi baik
+BLT042,2026-09-30,10.8,8.8,73.8,41.9,Ya,Lengkap sesuai usia,-0.44,-0.12,Normal,2026-10-28,Kondisi baik
+BLT043,2026-08-27,15.7,8.5,71.9,43.5,Ya,Lengkap sesuai usia,-0.98,-2.1,Stunting,2026-09-24,Kontrol bulan depan
+BLT044,2026-09-19,5.5,5.4,56.8,38.6,Ya,Belum lengkap,-1.79,-3.26,Stunting,2026-10-17,Edukasi MP-ASI
+BLT045,2026-05-22,7.5,6.5,63.1,40.2,Ya,Lengkap sesuai usia,-1.26,-1.97,Normal,2026-06-19,Kondisi baik
+BLT045,2026-06-27,8.7,6.9,64.8,41.7,Tidak,Lengkap sesuai usia,-1.13,-1.9,Normal,2026-07-25,Kondisi baik
+BLT045,2026-08-17,10.4,7.2,66.6,42.8,Tidak,Lengkap sesuai usia,-1.21,-2.04,Stunting,2026-09-14,Edukasi MP-ASI
+BLT045,2026-09-13,11.3,7.4,67.7,42.0,Ya,Lengkap sesuai usia,-1.21,-2.06,Stunting,2026-10-11,Kondisi baik
+BLT046,2026-06-26,2.7,5.4,56.1,37.0,Ya,Lengkap sesuai usia,0.1,-0.79,Normal,2026-07-24,Kondisi baik
+BLT047,2026-06-04,14.9,9.8,76.0,43.7,Ya,Lengkap sesuai usia,-0.37,-1.0,Normal,2026-07-02,Kondisi baik
+BLT047,2026-08-17,17.4,9.6,78.4,43.3,Tidak,Lengkap sesuai usia,-0.94,-0.96,Normal,2026-09-14,Kondisi baik
+BLT048,2026-08-02,41.9,12.3,99.8,46.6,Tidak,Lengkap sesuai usia,-1.34,0.25,Normal,2026-08-30,Kondisi baik
+BLT048,2026-08-14,42.3,12.3,101.3,46.2,Ya,Lengkap sesuai usia,-1.37,0.56,Normal,2026-09-11,Kontrol bulan depan
+BLT048,2026-09-14,43.3,13.2,101.6,47.4,Tidak,Belum lengkap,-1.0,0.47,Normal,2026-10-12,Kontrol bulan depan
+BLT049,2026-06-04,34.9,14.2,97.6,46.4,Tidak,Lengkap sesuai usia,0.05,0.61,Normal,2026-07-02,Kondisi baik
+BLT049,2026-08-20,37.5,13.8,99.3,47.5,Tidak,Lengkap sesuai usia,-0.43,0.62,Normal,2026-09-17,Kontrol bulan depan
+BLT050,2026-06-16,51.3,17.1,106.6,46.7,Tidak,Lengkap sesuai usia,0.18,0.47,Normal,2026-07-14,Kontrol bulan depan
+BLT050,2026-07-17,52.3,16.8,108.7,45.6,Ya,Lengkap sesuai usia,-0.03,0.82,Normal,2026-08-14,Edukasi MP-ASI
+BLT050,2026-09-03,53.9,17.6,108.1,46.1,Ya,Lengkap sesuai usia,0.19,0.48,Normal,2026-10-01,Kondisi baik
+BLT050,2026-09-19,54.5,17.7,108.6,46.4,Ya,Lengkap sesuai usia,0.19,0.52,Normal,2026-10-17,Kontrol bulan depan
+BLT051,2026-07-16,42.3,10.4,91.7,46.8,Ya,Belum lengkap,-2.67,-2.09,Stunting,2026-08-13,Edukasi MP-ASI
+BLT051,2026-09-15,44.3,10.9,90.9,46.4,Ya,Lengkap sesuai usia,-2.51,-2.56,Stunting,2026-10-13,Pantau kenaikan berat badan
+BLT051,2026-10-31,45.8,11.4,92.7,47.0,Ya,Lengkap sesuai usia,-2.33,-2.31,Stunting,2026-11-28,Pantau kenaikan berat badan
+BLT052,2026-07-02,1.9,4.0,54.0,36.1,Tidak,Lengkap sesuai usia,-0.84,-0.12,Normal,2026-07-30,Kondisi baik
+BLT052,2026-09-01,3.9,5.4,60.0,38.2,Ya,Lengkap sesuai usia,-0.61,0.1,Normal,2026-09-29,Kondisi baik
+BLT052,2026-10-03,4.9,6.1,62.7,38.9,Tidak,Lengkap sesuai usia,-0.57,0.0,Normal,2026-10-31,Pantau kenaikan berat badan
+BLT052,2026-10-21,5.5,6.4,64.4,39.2,Ya,Lengkap sesuai usia,-0.66,0.03,Normal,2026-11-18,Kontrol bulan depan
+BLT053,2026-07-21,24.5,11.1,84.4,44.8,Ya,Lengkap sesuai usia,-0.84,-1.16,Normal,2026-08-18,Pantau kenaikan berat badan
+BLT054,2026-08-27,8.7,6.7,64.0,40.3,Ya,Lengkap sesuai usia,-1.98,-3.03,Stunting,2026-09-24,Kontrol bulan depan
+BLT054,2026-09-24,9.6,6.9,64.4,42.2,Ya,Lengkap sesuai usia,-1.98,-3.34,Stunting,2026-10-22,Edukasi MP-ASI
+BLT055,2026-08-21,14.5,9.6,76.0,45.0,Tidak,Lengkap sesuai usia,-0.47,-0.84,Normal,2026-09-18,Pantau kenaikan berat badan
+BLT056,2026-08-02,43.9,13.5,93.7,45.9,Ya,Belum lengkap,-1.11,-1.8,Normal,2026-08-30,Kontrol bulan depan
+BLT057,2026-07-20,26.4,10.8,88.9,45.6,Ya,Belum lengkap,-1.25,-0.18,Normal,2026-08-17,Kondisi baik
+BLT057,2026-10-23,29.6,10.5,90.9,46.1,Ya,Lengkap sesuai usia,-1.74,-0.22,Normal,2026-11-20,Kondisi baik
+BLT058,2026-05-23,11.5,9.5,72.9,40.7,Ya,Belum lengkap,0.67,-0.18,Normal,2026-06-20,Kondisi baik
+BLT058,2026-07-23,13.5,10.5,74.1,44.9,Tidak,Lengkap sesuai usia,1.1,-0.56,Normal,2026-08-20,Edukasi MP-ASI
+BLT058,2026-08-25,14.6,10.9,75.5,43.8,Tidak,Lengkap sesuai usia,1.2,-0.44,Normal,2026-09-22,Pantau kenaikan berat badan
+BLT059,2026-05-26,13.6,10.4,82.1,43.0,Ya,Lengkap sesuai usia,0.99,2.38,Normal,2026-06-23,Kontrol bulan depan
+BLT060,2026-05-24,8.6,5.4,67.2,40.6,Ya,Lengkap sesuai usia,-2.62,-0.85,Gizi kurang,2026-06-21,Kontrol bulan depan
+BLT060,2026-08-03,10.9,5.7,70.1,43.1,Ya,Lengkap sesuai usia,-2.73,-0.94,Gizi kurang,2026-08-31,Pantau kenaikan berat badan
+BLT061,2026-06-03,1.9,3.2,52.0,35.3,Ya,Lengkap sesuai usia,-2.33,-1.16,Gizi kurang,2026-07-01,Pantau kenaikan berat badan
+BLT061,2026-10-21,6.5,5.1,63.2,38.9,Tidak,Lengkap sesuai usia,-2.55,-1.38,Gizi kurang,2026-11-18,Pantau kenaikan berat badan
+BLT062,2026-10-24,6.6,7.7,67.0,40.1,Ya,Belum lengkap,-0.4,-0.61,Normal,2026-11-21,Edukasi MP-ASI
+BLT063,2026-05-18,18.4,8.8,79.0,44.6,Tidak,Belum lengkap,-1.13,-0.53,Normal,2026-06-15,Kontrol bulan depan
+BLT063,2026-09-30,22.8,9.5,83.6,44.1,Ya,Lengkap sesuai usia,-1.19,-0.49,Normal,2026-10-28,Kontrol bulan depan
+BLT063,2026-10-12,23.2,9.3,84.1,44.6,Ya,Lengkap sesuai usia,-1.38,-0.46,Normal,2026-11-09,Kontrol bulan depan
+BLT064,2026-05-15,14.3,11.3,75.5,44.2,Tidak,Lengkap sesuai usia,1.04,-0.95,Normal,2026-06-12,Kondisi baik
+BLT064,2026-06-30,15.8,11.9,76.8,43.4,Tidak,Belum lengkap,1.24,-1.0,Normal,2026-07-28,Pantau kenaikan berat badan
+BLT064,2026-08-21,17.5,11.8,77.7,44.3,Ya,Lengkap sesuai usia,0.81,-1.26,Normal,2026-09-18,Kondisi baik
+BLT064,2026-10-23,19.6,12.6,80.2,43.4,Tidak,Lengkap sesuai usia,1.05,-1.07,Normal,2026-11-20,Kondisi baik
+BLT065,2026-08-22,49.5,13.9,101.7,47.3,Tidak,Lengkap sesuai usia,-1.1,-0.44,Normal,2026-09-19,Kontrol bulan depan
+BLT066,2026-05-16,31.3,9.2,87.7,45.4,Ya,Belum lengkap,-2.24,-1.11,Gizi kurang,2026-06-13,Edukasi MP-ASI
+BLT066,2026-08-22,34.5,9.7,90.1,47.1,Tidak,Lengkap sesuai usia,-2.22,-1.05,Gizi kurang,2026-09-19,Edukasi MP-ASI
+BLT066,2026-10-28,36.7,10.3,91.1,45.5,Tidak,Lengkap sesuai usia,-2.05,-1.17,Gizi kurang,2026-11-25,Edukasi MP-ASI
+BLT067,2026-07-01,48.8,17.8,103.8,45.3,Ya,Lengkap sesuai usia,0.7,0.15,Normal,2026-07-29,Kondisi baik
+BLT067,2026-09-06,51.0,17.6,105.5,47.0,Ya,Lengkap sesuai usia,0.42,0.26,Normal,2026-10-04,Kondisi baik
+BLT067,2026-11-01,52.9,17.0,105.5,45.8,Tidak,Belum lengkap,0.02,0.02,Normal,2026-11-29,Edukasi MP-ASI
+BLT068,2026-07-21,52.5,15.7,108.0,46.7,Ya,Lengkap sesuai usia,-0.63,0.52,Normal,2026-08-18,Kontrol bulan depan
+BLT068,2026-09-30,54.8,16.2,110.0,47.1,Ya,Lengkap sesuai usia,-0.55,0.67,Normal,2026-10-28,Edukasi MP-ASI
+BLT068,2026-10-15,55.3,15.5,110.8,45.8,Tidak,Belum lengkap,-0.9,0.79,Normal,2026-11-12,Edukasi MP-ASI
+BLT069,2026-07-05,12.0,7.2,70.8,42.2,Ya,Lengkap sesuai usia,-1.54,-1.21,Normal,2026-08-02,Kontrol bulan depan
+BLT069,2026-08-23,13.6,7.4,72.2,43.8,Tidak,Belum lengkap,-1.6,-1.27,Normal,2026-09-20,Kondisi baik
+BLT069,2026-10-03,14.9,7.6,73.4,43.7,Ya,Belum lengkap,-1.61,-1.3,Normal,2026-10-31,Pantau kenaikan berat badan
+BLT070,2026-06-28,38.7,15.7,99.0,45.3,Tidak,Belum lengkap,0.54,0.33,Normal,2026-07-26,Pantau kenaikan berat badan
+BLT070,2026-08-26,40.7,16.4,100.7,46.7,Ya,Lengkap sesuai usia,0.73,0.47,Normal,2026-09-23,Kondisi baik
+BLT070,2026-09-13,41.3,15.6,102.5,46.9,Ya,Lengkap sesuai usia,0.23,0.84,Normal,2026-10-11,Edukasi MP-ASI
+BLT071,2026-05-23,24.5,10.1,83.2,45.3,Ya,Belum lengkap,-1.0,-1.08,Normal,2026-06-20,Kondisi baik
+BLT071,2026-08-21,27.5,10.4,84.2,45.4,Ya,Lengkap sesuai usia,-1.13,-1.37,Normal,2026-09-18,Edukasi MP-ASI
+BLT071,2026-09-18,28.4,11.5,86.2,45.1,Ya,Belum lengkap,-0.55,-0.98,Normal,2026-10-16,Kondisi baik
+BLT071,2026-10-29,29.8,11.0,86.6,45.5,Ya,Lengkap sesuai usia,-1.01,-1.13,Normal,2026-11-26,Pantau kenaikan berat badan
+BLT072,2026-05-28,29.7,13.8,95.0,45.1,Ya,Lengkap sesuai usia,0.71,1.26,Normal,2026-06-25,Kontrol bulan depan
+BLT072,2026-08-27,32.7,14.3,96.9,46.4,Ya,Belum lengkap,0.62,1.15,Normal,2026-09-24,Edukasi MP-ASI
+BLT072,2026-09-17,33.4,14.3,98.4,46.5,Tidak,Belum lengkap,0.53,1.41,Normal,2026-10-15,Kondisi baik
+BLT073,2026-05-18,34.4,15.7,94.3,45.7,Tidak,Lengkap sesuai usia,1.02,-0.19,Normal,2026-06-15,Pantau kenaikan berat badan
+BLT074,2026-06-14,18.3,8.0,76.0,44.5,Ya,Belum lengkap,-2.35,-2.1,Stunting,2026-07-12,Kondisi baik
+BLT074,2026-08-27,20.7,8.6,77.9,44.9,Ya,Lengkap sesuai usia,-2.19,-2.18,Stunting,2026-09-24,Pantau kenaikan berat badan
+BLT074,2026-09-23,21.6,8.3,79.8,46.0,Tidak,Lengkap sesuai usia,-2.52,-1.82,Gizi kurang,2026-10-21,Kondisi baik
+BLT074,2026-10-16,22.3,7.9,80.8,44.3,Ya,Lengkap sesuai usia,-2.9,-1.72,Gizi kurang,2026-11-13,Kontrol bulan depan
+BLT075,2026-05-15,16.3,11.8,81.4,45.8,Ya,Lengkap sesuai usia,1.06,0.5,Normal,2026-06-12,Pantau kenaikan berat badan
+BLT076,2026-10-03,37.9,14.0,90.6,47.6,Tidak,Lengkap sesuai usia,-0.13,-1.48,Normal,2026-10-31,Kondisi baik
+BLT077,2026-08-18,26.4,10.1,87.7,46.2,Ya,Lengkap sesuai usia,-1.21,-0.13,Normal,2026-09-15,Kondisi baik
+BLT077,2026-09-24,27.6,9.5,88.2,45.7,Tidak,Belum lengkap,-1.71,-0.24,Normal,2026-10-22,Kontrol bulan depan
+BLT078,2026-05-28,24.7,9.4,78.2,45.3,Ya,Belum lengkap,-1.48,-2.62,Stunting,2026-06-25,Kontrol bulan depan
+BLT078,2026-07-22,26.5,9.0,80.0,45.3,Tidak,Belum lengkap,-1.92,-2.41,Stunting,2026-08-19,Pantau kenaikan berat badan
+BLT079,2026-10-20,12.5,6.9,73.5,43.5,Ya,Lengkap sesuai usia,-2.52,-1.06,Gizi kurang,2026-11-17,Kontrol bulan depan
+BLT080,2026-07-08,49.1,13.8,103.7,45.9,Ya,Lengkap sesuai usia,-1.31,-0.05,Normal,2026-08-05,Edukasi MP-ASI
+BLT080,2026-07-31,49.8,14.4,105.7,46.8,Tidak,Belum lengkap,-1.07,0.33,Normal,2026-08-28,Kondisi baik
+BLT080,2026-09-04,51.0,14.7,105.6,46.0,Ya,Lengkap sesuai usia,-1.0,0.15,Normal,2026-10-02,Pantau kenaikan berat badan
+BLT080,2026-10-21,52.5,15.8,107.1,45.7,Tidak,Lengkap sesuai usia,-0.58,0.3,Normal,2026-11-18,Kondisi baik
+BLT081,2026-09-05,19.0,10.7,79.4,46.2,Tidak,Lengkap sesuai usia,-0.33,-1.15,Normal,2026-10-03,Pantau kenaikan berat badan
+BLT082,2026-06-06,47.0,8.5,86.7,46.6,Tidak,Lengkap sesuai usia,-3.42,-3.69,Stunting,2026-07-04,Edukasi MP-ASI
+BLT082,2026-07-29,48.7,8.5,87.4,46.6,Tidak,Lengkap sesuai usia,-3.47,-3.72,Stunting,2026-08-26,Pantau kenaikan berat badan
+BLT082,2026-08-23,49.6,8.0,88.0,45.9,Ya,Lengkap sesuai usia,-3.72,-3.66,Stunting,2026-09-20,Pantau kenaikan berat badan
+BLT082,2026-10-23,51.6,9.5,87.3,47.6,Tidak,Belum lengkap,-3.12,-4.03,Stunting,2026-11-20,Kondisi baik
+BLT083,2026-06-03,23.9,13.5,90.0,45.3,Ya,Lengkap sesuai usia,0.95,0.72,Normal,2026-07-01,Edukasi MP-ASI
+BLT083,2026-06-26,24.7,13.0,91.6,45.5,Ya,Lengkap sesuai usia,0.48,1.04,Normal,2026-07-24,Pantau kenaikan berat badan
+BLT083,2026-07-19,25.4,13.5,91.1,45.5,Ya,Lengkap sesuai usia,0.73,0.71,Normal,2026-08-16,Pantau kenaikan berat badan
+BLT083,2026-09-22,27.6,13.9,92.5,45.5,Ya,Belum lengkap,0.72,0.67,Normal,2026-10-20,Kondisi baik
+BLT084,2026-08-04,46.9,13.7,104.7,47.2,Ya,Lengkap sesuai usia,-1.02,0.64,Normal,2026-09-01,Pantau kenaikan berat badan
+BLT084,2026-08-13,47.2,14.1,105.5,46.4,Ya,Lengkap sesuai usia,-0.86,0.79,Normal,2026-09-10,Kontrol bulan depan
+BLT085,2026-05-17,6.3,6.4,65.7,41.3,Ya,Belum lengkap,-1.75,-1.02,Normal,2026-06-14,Kontrol bulan depan
+BLT085,2026-06-23,7.6,6.9,67.6,40.6,Ya,Lengkap sesuai usia,-1.51,-0.89,Normal,2026-07-21,Edukasi MP-ASI
+BLT086,2026-05-28,16.7,9.4,78.1,44.3,Ya,Lengkap sesuai usia,-1.0,-0.84,Normal,2026-06-25,Kontrol bulan depan
+BLT087,2026-05-29,37.7,12.3,95.2,46.7,Ya,Belum lengkap,-1.03,-0.26,Normal,2026-06-26,Edukasi MP-ASI
+BLT087,2026-07-02,38.9,13.0,97.3,45.9,Ya,Belum lengkap,-0.75,0.1,Normal,2026-07-30,Pantau kenaikan berat badan
+BLT087,2026-09-25,41.7,13.8,97.9,47.7,Tidak,Belum lengkap,-0.57,-0.2,Normal,2026-10-23,Edukasi MP-ASI
+BLT088,2026-05-31,19.8,11.0,84.2,45.5,Tidak,Lengkap sesuai usia,0.3,0.7,Normal,2026-06-28,Kontrol bulan depan
+BLT088,2026-06-19,20.4,10.8,84.2,45.5,Ya,Lengkap sesuai usia,0.05,0.48,Normal,2026-07-17,Edukasi MP-ASI
+BLT088,2026-07-18,21.4,11.3,84.9,46.5,Ya,Lengkap sesuai usia,0.26,0.38,Normal,2026-08-15,Edukasi MP-ASI
+BLT088,2026-10-03,23.9,11.3,89.1,45.1,Tidak,Lengkap sesuai usia,-0.12,0.85,Normal,2026-10-31,Kondisi baik
+BLT089,2026-07-26,29.6,10.8,83.6,46.2,Ya,Lengkap sesuai usia,-1.55,-2.36,Stunting,2026-08-23,Edukasi MP-ASI
+BLT090,2026-08-17,42.4,12.9,92.7,45.7,Tidak,Lengkap sesuai usia,-1.08,-1.6,Normal,2026-09-14,Kondisi baik
+BLT090,2026-10-04,43.9,13.5,92.7,46.2,Ya,Lengkap sesuai usia,-0.9,-1.83,Normal,2026-11-01,Edukasi MP-ASI
+BLT091,2026-05-16,45.3,19.5,102.8,45.0,Tidak,Lengkap sesuai usia,1.89,0.28,Normal,2026-06-13,Kontrol bulan depan
+BLT091,2026-10-23,50.6,21.1,106.0,46.8,Ya,Lengkap sesuai usia,2.1,0.3,Risiko gizi lebih,2026-11-20,Kondisi baik
+BLT092,2026-06-22,6.5,6.9,65.7,40.6,Tidak,Lengkap sesuai usia,-1.25,-1.13,Normal,2026-07-20,Kontrol bulan depan
+BLT092,2026-09-04,9.0,7.4,68.8,42.1,Ya,Lengkap sesuai usia,-1.34,-1.17,Normal,2026-10-02,Kondisi baik
+BLT093,2026-06-06,42.0,17.1,99.9,45.3,Ya,Lengkap sesuai usia,0.97,0.05,Normal,2026-07-04,Edukasi MP-ASI
+BLT093,2026-07-06,43.0,16.7,101.6,45.5,Tidak,Lengkap sesuai usia,0.66,0.33,Normal,2026-08-03,Kontrol bulan depan
+BLT093,2026-07-21,43.5,17.2,103.0,46.3,Ya,Lengkap sesuai usia,0.88,0.61,Normal,2026-08-18,Kondisi baik
+BLT094,2026-05-29,24.7,8.2,81.3,45.4,Tidak,Lengkap sesuai usia,-2.91,-2.17,Stunting,2026-06-26,Edukasi MP-ASI
+BLT095,2026-07-25,9.6,6.2,67.1,43.4,Ya,Lengkap sesuai usia,-2.02,-1.45,Gizi kurang,2026-08-22,Pantau kenaikan berat badan
+BLT095,2026-10-13,12.2,7.1,70.1,42.6,Ya,Lengkap sesuai usia,-1.67,-1.59,Normal,2026-11-10,Kondisi baik
+BLT096,2026-06-28,16.7,7.0,70.7,43.6,Ya,Lengkap sesuai usia,-2.32,-2.85,Stunting,2026-07-26,Kontrol bulan depan
+BLT097,2026-05-25,2.6,4.7,59.9,38.1,Ya,Belum lengkap,-0.97,1.12,Normal,2026-06-22,Kondisi baik
+BLT097,2026-06-28,3.7,5.4,63.3,37.2,Tidak,Lengkap sesuai usia,-1.06,1.12,Normal,2026-07-26,Kondisi baik
+BLT097,2026-07-22,4.5,6.1,66.1,38.4,Ya,Lengkap sesuai usia,-0.85,1.31,Normal,2026-08-19,Edukasi MP-ASI
+BLT098,2026-05-21,35.5,10.7,96.7,45.5,Ya,Lengkap sesuai usia,-1.73,0.52,Normal,2026-06-18,Pantau kenaikan berat badan
+BLT098,2026-09-01,38.9,11.4,99.7,47.0,Tidak,Lengkap sesuai usia,-1.6,0.72,Normal,2026-09-29,Kondisi baik
+BLT098,2026-09-19,39.5,12.0,100.3,46.1,Ya,Lengkap sesuai usia,-1.32,0.77,Normal,2026-10-17,Kondisi baik
+BLT098,2026-10-27,40.7,11.5,100.4,46.0,Tidak,Lengkap sesuai usia,-1.67,0.59,Normal,2026-11-24,Pantau kenaikan berat badan
+BLT099,2026-08-14,25.3,11.7,85.2,45.9,Ya,Lengkap sesuai usia,-0.5,-1.07,Normal,2026-09-11,Edukasi MP-ASI
+BLT099,2026-09-28,26.8,12.3,86.5,47.0,Tidak,Lengkap sesuai usia,-0.26,-0.97,Normal,2026-10-26,Edukasi MP-ASI
+BLT100,2026-07-30,33.8,11.7,93.9,46.4,Ya,Lengkap sesuai usia,-1.34,-0.18,Normal,2026-08-27,Kontrol bulan depan
+BLT100,2026-08-31,34.8,11.3,94.5,46.6,Ya,Lengkap sesuai usia,-1.67,-0.22,Normal,2026-09-28,Edukasi MP-ASI
+BLT001,2026-11-06,36.0,10.0,80.0,46.0,Ya,Lengkap sesuai usia,-2.53,-4.35,Stunting,2026-12-04,
+BLT102,2026-11-06,34.0,10.0,80.0,46.0,Ya,Lengkap sesuai usia,-2.39,-4.07,Stunting,2026-12-04,

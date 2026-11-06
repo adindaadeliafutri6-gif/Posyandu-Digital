@@ -1,0 +1,92 @@
+id_peserta,tanggal_pemeriksaan,usia_kehamilan_minggu,berat_kg,lila_cm,sistol,diastol,hb_gdl,tfu_cm,djj_bpm,tablet_fe,status_kek,status_anemia,status_hipertensi,risiko,jadwal_berikutnya,hpl,catatan
+IBU001,2026-07-04,13,68.5,22.2,109,71,10.9,,146.0,Belum diberikan,KEK,Anemia,Normal,Risiko tinggi,2026-07-18,2027-01-09,Rujuk ke bidan
+IBU001,2026-07-25,16,68.2,22.4,112,74,10.6,,129.0,Belum diberikan,KEK,Anemia,Normal,Risiko tinggi,2026-08-08,2027-01-09,Rujuk ke bidan
+IBU001,2026-09-22,25,72.7,22.1,107,69,10.1,20.3,144.0,Diberikan,KEK,Anemia,Normal,Risiko tinggi,2026-10-06,2027-01-05,Rujuk ke bidan
+IBU001,2026-11-02,31,75.8,22.3,105,79,11.0,27.0,139.0,Diberikan,KEK,Tidak anemia,Normal,Perlu pemantauan,2026-11-30,2027-01-04,Kontrol rutin
+IBU002,2026-07-05,12,52.4,27.7,113,69,11.7,,151.0,Belum diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-08-02,2027-01-17,Kontrol rutin
+IBU002,2026-08-25,20,55.6,27.7,112,63,12.5,15.7,139.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-09-22,2027-01-12,Kontrol rutin
+IBU003,2026-10-27,13,76.1,23.3,105,67,10.0,,136.0,Belum diberikan,KEK,Anemia,Normal,Risiko tinggi,2026-11-10,2027-05-04,Rujuk ke bidan
+IBU004,2026-08-29,13,63.2,24.2,103,60,11.4,,149.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-09-26,2027-03-06,Kontrol rutin
+IBU004,2026-10-02,18,64.8,24.3,120,68,11.9,,128.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-10-30,2027-03-05,Kontrol rutin
+IBU004,2026-11-02,23,67.2,24.1,107,69,11.9,18.7,138.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-11-30,2027-03-01,Kontrol rutin
+IBU005,2026-07-06,7,66.1,28.1,105,77,13.8,,,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-08-03,2027-02-22,Kontrol rutin
+IBU005,2026-08-27,14,67.5,28.3,111,64,12.9,,134.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-09-24,2027-02-25,Kontrol rutin
+IBU005,2026-10-08,20,69.1,28.4,114,75,13.5,17.6,131.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-11-05,2027-02-25,Kontrol rutin
+IBU006,2026-08-10,5,51.6,22.6,109,70,13.7,,,Diberikan,KEK,Tidak anemia,Normal,Perlu pemantauan,2026-09-07,2027-04-12,Kontrol rutin
+IBU007,2026-10-03,24,51.2,24.8,118,78,12.4,21.5,130.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-10-31,2027-01-23,Kontrol rutin
+IBU008,2026-11-04,21,64.2,23.0,150,96,11.1,17.0,119.0,Diberikan,KEK,Tidak anemia,Hipertensi,Risiko tinggi,2026-11-18,2027-03-17,Rujuk ke bidan
+IBU009,2026-06-01,8,41.1,28.5,104,76,13.0,,,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-06-29,2027-01-11,Kontrol rutin
+IBU009,2026-09-30,25,49.1,28.9,121,65,12.9,21.6,131.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-10-28,2027-01-13,Kontrol rutin
+IBU010,2026-06-29,11,69.1,25.0,109,59,8.2,,,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-07-27,2027-01-18,Kontrol rutin
+IBU011,2026-09-26,6,58.2,29.6,153,92,12.9,,,Diberikan,Tidak KEK,Tidak anemia,Hipertensi,Risiko tinggi,2026-10-10,2027-05-22,Rujuk ke bidan
+IBU011,2026-10-27,11,60.9,29.1,143,94,13.2,,,Diberikan,Tidak KEK,Tidak anemia,Hipertensi,Risiko tinggi,2026-11-10,2027-05-18,Rujuk ke bidan
+IBU012,2026-08-22,6,48.8,22.9,113,75,9.3,,,Diberikan,KEK,Anemia,Normal,Risiko tinggi,2026-09-05,2027-04-17,Rujuk ke bidan
+IBU012,2026-09-30,12,48.8,22.9,89,75,9.5,,131.0,Diberikan,KEK,Anemia,Normal,Risiko tinggi,2026-10-14,2027-04-14,Rujuk ke bidan
+IBU013,2026-10-21,6,66.5,26.1,122,86,9.7,,,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-11-18,2027-06-16,Kontrol rutin
+IBU014,2026-10-03,20,62.7,28.7,102,74,13.2,17.6,139.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-10-31,2027-02-20,Kontrol rutin
+IBU015,2026-07-15,20,51.2,22.9,108,74,9.3,15.5,137.0,Diberikan,KEK,Anemia,Normal,Risiko tinggi,2026-07-29,2026-12-02,Rujuk ke bidan
+IBU016,2026-06-29,15,63.4,26.8,103,76,11.0,,133.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-07-27,2026-12-21,Kontrol rutin
+IBU016,2026-09-21,27,66.8,27.0,125,68,10.7,22.6,149.0,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-10-19,2026-12-21,Kontrol rutin
+IBU017,2026-06-27,17,76.9,27.1,102,83,11.7,,141.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-07-25,2026-12-05,Kontrol rutin
+IBU017,2026-08-13,24,80.9,26.6,94,73,12.1,19.7,134.0,Belum diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-09-10,2026-12-03,Kontrol rutin
+IBU017,2026-09-08,28,81.9,26.6,105,71,11.7,24.1,149.0,Belum diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-10-06,2026-12-01,Kontrol rutin
+IBU018,2026-08-23,4,56.6,21.7,94,75,11.7,,,Diberikan,KEK,Tidak anemia,Normal,Perlu pemantauan,2026-09-20,2027-05-02,Kontrol rutin
+IBU019,2026-09-20,29,69.6,26.3,120,73,10.2,26.1,151.0,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-10-18,2026-12-06,Kontrol rutin
+IBU020,2026-07-02,9,54.9,24.9,114,70,10.1,,,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-07-30,2027-02-04,Kontrol rutin
+IBU021,2026-06-28,17,57.8,24.8,106,68,11.5,,146.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-07-26,2026-12-06,Kontrol rutin
+IBU021,2026-08-30,26,61.7,25.0,101,63,11.5,19.2,133.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-09-27,2026-12-06,Kontrol rutin
+IBU021,2026-10-18,33,65.0,25.3,118,75,10.9,28.2,141.0,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-11-15,2026-12-06,Kontrol rutin
+IBU022,2026-08-29,15,60.8,23.2,119,64,11.0,,132.0,Belum diberikan,KEK,Tidak anemia,Normal,Perlu pemantauan,2026-09-26,2027-02-20,Kontrol rutin
+IBU023,2026-06-17,4,72.0,23.3,113,75,14.0,,,Diberikan,KEK,Tidak anemia,Normal,Perlu pemantauan,2026-07-15,2027-02-24,Kontrol rutin
+IBU023,2026-07-10,7,71.6,23.1,114,61,13.7,,,Diberikan,KEK,Tidak anemia,Normal,Perlu pemantauan,2026-08-07,2027-02-26,Kontrol rutin
+IBU024,2026-10-01,8,56.4,29.9,110,62,12.6,,,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-10-29,2027-05-13,Kontrol rutin
+IBU024,2026-10-28,12,57.5,30.1,97,74,12.6,,141.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-11-25,2027-05-12,Kontrol rutin
+IBU025,2026-09-27,8,65.8,24.5,120,66,9.9,,,Belum diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-10-25,2027-05-09,Kontrol rutin
+IBU026,2026-08-26,23,61.6,23.4,118,71,12.6,17.8,146.0,Diberikan,KEK,Tidak anemia,Normal,Perlu pemantauan,2026-09-23,2026-12-23,Kontrol rutin
+IBU027,2026-09-09,9,69.2,27.5,98,86,11.9,,,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-10-07,2027-04-14,Kontrol rutin
+IBU027,2026-09-26,11,67.4,27.5,116,76,12.2,,,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-10-24,2027-04-17,Kontrol rutin
+IBU028,2026-11-02,34,71.2,25.3,98,65,11.4,28.3,150.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-11-30,2026-12-14,Kontrol rutin
+IBU029,2026-08-22,9,62.6,28.3,112,64,11.9,,,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-09-19,2027-03-27,Kontrol rutin
+IBU029,2026-10-07,16,65.9,28.3,107,67,12.1,,133.0,Belum diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-11-04,2027-03-24,Kontrol rutin
+IBU029,2026-10-19,18,66.3,28.6,112,78,11.5,,149.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-11-16,2027-03-22,Kontrol rutin
+IBU030,2026-06-07,7,66.1,25.2,109,69,10.0,,,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-07-05,2027-01-24,Kontrol rutin
+IBU030,2026-07-12,12,67.2,25.4,112,76,10.2,,146.0,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-08-09,2027-01-24,Kontrol rutin
+IBU030,2026-07-25,14,68.4,25.5,101,71,10.0,,137.0,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-08-22,2027-01-23,Kontrol rutin
+IBU030,2026-09-30,24,70.2,25.2,110,80,10.1,21.1,134.0,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-10-28,2027-01-20,Kontrol rutin
+IBU031,2026-08-31,23,56.3,25.1,152,104,9.4,20.2,135.0,Diberikan,Tidak KEK,Anemia,Hipertensi,Risiko tinggi,2026-09-14,2026-12-28,Rujuk ke bidan
+IBU031,2026-10-01,27,56.1,24.6,142,89,9.1,24.0,143.0,Diberikan,Tidak KEK,Anemia,Hipertensi,Risiko tinggi,2026-10-15,2026-12-31,Rujuk ke bidan
+IBU031,2026-10-21,30,57.8,24.8,145,96,8.8,27.8,132.0,Diberikan,Tidak KEK,Anemia,Hipertensi,Risiko tinggi,2026-11-04,2026-12-30,Rujuk ke bidan
+IBU032,2026-09-24,24,67.1,26.9,140,85,11.9,19.3,136.0,Belum diberikan,Tidak KEK,Tidak anemia,Hipertensi,Risiko tinggi,2026-10-08,2027-01-14,Rujuk ke bidan
+IBU033,2026-08-01,14,64.4,25.8,121,68,10.1,,134.0,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-08-29,2027-01-30,Kontrol rutin
+IBU033,2026-10-03,23,69.2,25.6,104,61,9.5,19.2,131.0,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-10-31,2027-01-30,Kontrol rutin
+IBU035,2026-07-09,20,52.7,25.0,117,78,10.3,15.0,126.0,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-08-06,2026-11-26,Kontrol rutin
+IBU035,2026-09-22,31,55.7,25.2,119,79,10.2,27.5,148.0,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-10-20,2026-11-24,Kontrol rutin
+IBU035,2026-11-02,37,59.3,25.3,121,79,10.5,32.1,153.0,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-11-30,2026-11-23,Kontrol rutin
+IBU036,2026-09-03,4,44.2,25.9,114,71,9.9,,,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-10-01,2027-05-13,Kontrol rutin
+IBU036,2026-09-24,7,47.9,25.7,120,69,9.5,,,Diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-10-22,2027-05-13,Kontrol rutin
+IBU037,2026-07-29,7,60.4,24.3,145,92,12.4,,,Diberikan,Tidak KEK,Tidak anemia,Hipertensi,Risiko tinggi,2026-08-12,2027-03-17,Rujuk ke bidan
+IBU037,2026-08-31,12,63.0,24.3,135,87,11.9,,133.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-09-28,2027-03-15,Kontrol rutin
+IBU037,2026-11-03,21,63.7,24.0,160,99,12.2,16.4,140.0,Diberikan,Tidak KEK,Tidak anemia,Hipertensi,Risiko tinggi,2026-11-17,2027-03-16,Rujuk ke bidan
+IBU038,2026-06-14,12,41.2,23.7,106,59,11.8,,135.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-07-12,2026-12-27,Kontrol rutin
+IBU038,2026-08-13,21,44.9,23.7,108,75,11.8,17.1,116.0,Belum diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-09-10,2026-12-24,Kontrol rutin
+IBU038,2026-09-05,24,46.0,23.9,116,80,12.3,21.0,149.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-10-03,2026-12-26,Kontrol rutin
+IBU038,2026-11-04,33,49.8,23.7,99,78,11.9,27.9,136.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-12-02,2026-12-23,Kontrol rutin
+IBU039,2026-06-11,14,52.0,26.5,117,70,11.5,,147.0,Belum diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-07-09,2026-12-10,Kontrol rutin
+IBU039,2026-08-29,25,55.7,26.9,112,70,11.5,21.4,142.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-09-26,2026-12-12,Kontrol rutin
+IBU039,2026-10-08,31,57.9,26.6,117,80,11.7,27.9,140.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-11-05,2026-12-10,Kontrol rutin
+IBU039,2026-10-31,34,58.8,26.5,115,73,11.5,29.6,133.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-11-28,2026-12-12,Kontrol rutin
+IBU041,2026-09-28,18,62.1,22.1,104,73,12.1,,138.0,Diberikan,KEK,Tidak anemia,Normal,Perlu pemantauan,2026-10-26,2027-03-01,Kontrol rutin
+IBU041,2026-10-26,22,61.2,22.5,104,65,12.0,20.6,142.0,Diberikan,KEK,Tidak anemia,Normal,Perlu pemantauan,2026-11-23,2027-03-01,Kontrol rutin
+IBU042,2026-10-03,6,53.4,25.5,141,89,11.1,,,Belum diberikan,Tidak KEK,Tidak anemia,Hipertensi,Risiko tinggi,2026-10-17,2027-05-29,Rujuk ke bidan
+IBU042,2026-10-31,10,53.5,25.6,150,89,11.1,,,Diberikan,Tidak KEK,Tidak anemia,Hipertensi,Risiko tinggi,2026-11-14,2027-05-29,Rujuk ke bidan
+IBU046,2026-08-26,13,63.3,27.9,108,71,12.0,,135.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-09-23,2027-03-03,Kontrol rutin
+IBU046,2026-09-30,18,63.4,27.7,108,65,12.6,,142.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-10-28,2027-03-03,Kontrol rutin
+IBU047,2026-10-29,14,62.5,28.3,131,60,13.8,,125.0,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-11-26,2027-04-29,Kontrol rutin
+IBU048,2026-06-14,4,46.6,26.7,156,94,11.4,,,Diberikan,Tidak KEK,Tidak anemia,Hipertensi,Risiko tinggi,2026-06-28,2027-02-21,Rujuk ke bidan
+IBU048,2026-08-02,11,46.8,26.6,145,96,11.3,,,Diberikan,Tidak KEK,Tidak anemia,Hipertensi,Risiko tinggi,2026-08-16,2027-02-21,Rujuk ke bidan
+IBU048,2026-09-24,19,50.6,26.6,150,84,11.4,,153.0,Diberikan,Tidak KEK,Tidak anemia,Hipertensi,Risiko tinggi,2026-10-08,2027-02-18,Rujuk ke bidan
+IBU048,2026-10-25,23,50.8,26.6,153,91,11.2,17.6,130.0,Belum diberikan,Tidak KEK,Tidak anemia,Hipertensi,Risiko tinggi,2026-11-08,2027-02-21,Rujuk ke bidan
+IBU050,2026-11-01,10,60.5,23.8,125,61,10.5,,,Belum diberikan,Tidak KEK,Anemia,Normal,Perlu pemantauan,2026-11-29,2027-05-30,Kontrol rutin
+IBU001,2026-11-06,20,60.0,25.0,115,75,11.5,,,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-12-04,2027-03-26,
+IBU001,2026-11-06,20,60.0,25.0,115,75,11.5,,,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-12-04,2027-03-26,
+IBU001,2026-11-06,20,60.0,25.0,115,75,11.5,,,Diberikan,Tidak KEK,Tidak anemia,Normal,Risiko rendah,2026-12-04,2027-03-26,
